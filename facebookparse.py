@@ -5,7 +5,7 @@ from collections import Counter
 
 facebookPosts = []
 
-with open('facebook.json', 'r') as f:
+with open('data/facebook.json', 'r') as f:
     posts_dict = json.load(f)
 
 for post in posts_dict['status_updates']:

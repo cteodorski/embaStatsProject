@@ -4,7 +4,7 @@ from collections import Counter
 twitterPosts = []
 
 fieldnames = ['favorite_count','source,text','in_reply_to_screen_name','is_retweet','created_at','retweet_count','id_str']
-csvfile = pandas.read_csv('twitter.csv', names=fieldnames)
+csvfile = pandas.read_csv('data/twitter.csv', names=fieldnames)
 dates = csvfile.created_at.tolist()
 for date in dates:
 	date = date.replace(" +0000","")

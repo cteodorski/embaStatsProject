@@ -5,7 +5,7 @@ from collections import Counter
 
 instagramPosts = []
 
-with open('instagram.json', 'r') as f:
+with open('data/instagram.json', 'r') as f:
     posts_dict = json.load(f)
 
 for post in posts_dict['photos']:
