@@ -1,0 +1,464 @@
+1/9/2016 12:00:00 AM	11/15/2015 12:00:00 AM	10	0.0014275206	0.0142752064	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+1/9/2016 12:00:00 AM	11/15/2015 12:00:00 AM	1	0.0013144658	0.00131446588	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+1/15/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.637	1.274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon MP3	download	US
+1/16/2016 12:00:00 AM	9/15/2015 12:00:00 AM	22	0.00026572	0.00584584	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/16/2016 12:00:00 AM	10/15/2015 12:00:00 AM	5	0.00026936	0.0013468	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/25/2016 12:00:00 AM	12/15/2015 12:00:00 AM	6	0.0009680725	0.00580843536	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Radio - Americas	stream	US
+1/25/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.7040430205	0.70404302059	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	DE
+1/25/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+1/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	4	0.01111201	0.04444804	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.0017640741	0.00176407413	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+1/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00200928	0.00200928	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00996177	0.00996177	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	2	0.00996177	0.01992354	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+2/3/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.0015015	0.003003	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+2/5/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.00716079	0.01432158	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+2/5/2016 12:00:00 AM	10/15/2015 12:00:00 AM	9	0.00819	0.07371	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+2/13/2016 12:00:00 AM	9/15/2015 12:00:00 AM	655	0.0011091398	0.72648660175	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+2/13/2016 12:00:00 AM	9/15/2015 12:00:00 AM	1	0.0107795305	0.01077953058	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+2/13/2016 12:00:00 AM	9/15/2015 12:00:00 AM	1	0.0107795305	0.01077953058	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+2/13/2016 12:00:00 AM	9/15/2015 12:00:00 AM	2	0.0215590611	0.04311812232	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+2/13/2016 12:00:00 AM	9/15/2015 12:00:00 AM	14	0.1509134308	2.1127880319	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	download	US
+2/16/2016 12:00:00 AM	12/15/2015 12:00:00 AM	58	0.0015669726	0.09088441544	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	2	0.000903957	0.001807914108	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	4	0.000903957	0.003615828216	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	1	0.0015307377	0.001530737754	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	1	0.001274	0.001274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	16	0.001274	0.020384	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	27	0.001274	0.034398	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	33	0.001274	0.042042	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	145	0.001274	0.18473	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	2	0.0100178858	0.020035771756	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	5	0.0100178858	0.05008942939	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	8	0.002093	0.016744	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	5	0.002093	0.010465	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/17/2016 12:00:00 AM	10/15/2015 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+2/23/2016 12:00:00 AM	12/15/2015 12:00:00 AM	35	0.001271896	0.0445163628	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+2/23/2016 12:00:00 AM	1/15/2016 12:00:00 AM	2	0.637	1.274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+2/27/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.7175684452	0.71756844523	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	DE
+2/27/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.7175684452	0.71756844523	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	IT
+3/7/2016 12:00:00 AM	1/15/2016 12:00:00 AM	24	0.00200928	0.04822272	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/7/2016 12:00:00 AM	1/15/2016 12:00:00 AM	5	0.00891709	0.04458545	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/14/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00224406	0.00224406	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CO
+3/14/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00664573	0.00664573	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+3/14/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00029757	0.00029757	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+3/14/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00170807	0.00170807	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+3/14/2016 12:00:00 AM	12/15/2015 12:00:00 AM	2	0.00683319	0.01366638	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+3/21/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.00819	0.01638	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+3/21/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	download	US
+3/21/2016 12:00:00 AM	1/15/2016 12:00:00 AM	9	0.0009871288	0.00888415983	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+3/26/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.7302558281	0.73025582812	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	IT
+3/31/2016 12:00:00 AM	2/15/2016 12:00:00 AM	5	0.01058785	0.05293925	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/31/2016 12:00:00 AM	2/15/2016 12:00:00 AM	12	0.001100887	0.01321064472	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+4/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	3	0.00195559	0.00586677	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.00315861	0.00315861	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.00017654	0.00017654	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.00342524	0.00342524	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.00835289	0.00835289	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CH
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	2	0.00709618	0.01419236	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	3	0.00678496	0.02035488	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	3	0.00090363	0.00271089	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+4/5/2016 12:00:00 AM	1/15/2016 12:00:00 AM	7	0.00034034	0.00238238	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	4	0.002093	0.008372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.0102986137	0.02059722756	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.0102986137	0.02059722756	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	22	0.001274	0.028028	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	30	0.001274	0.03822	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	16	0.001274	0.020384	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	114	0.001274	0.145236	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	4	0.0008894285	0.00355771416	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	2	0.0008894285	0.00177885708	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/14/2016 12:00:00 AM	11/15/2015 12:00:00 AM	3	0.00027755	0.00083265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+4/15/2016 12:00:00 AM	1/15/2016 12:00:00 AM	26	0.00026026	0.00676676	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+4/19/2016 12:00:00 AM	3/15/2016 12:00:00 AM	8	0.0011639063	0.00931125104	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+4/21/2016 12:00:00 AM	3/15/2016 12:00:00 AM	20	0.00194376	0.0388752	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.0008616708	0.00086167081	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.0008616708	0.00086167081	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.00663845	0.00663845	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.0014591313	0.00145913131	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.0014591313	0.00145913131	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	2	0.0008616708	0.00172334162	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	26	0.001274	0.033124	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	38	0.001274	0.048412	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	1	0.001274	0.001274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	19	0.001274	0.024206	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	100	0.001274	0.1274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	3	0.009358146	0.02807443821	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	2	0.009358146	0.01871629214	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+4/28/2016 12:00:00 AM	12/15/2015 12:00:00 AM	4	0.002093	0.008372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+5/9/2016 12:00:00 AM	2/15/2016 12:00:00 AM	11	0.00026208	0.00288288	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.00334789	0.00334789	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CL
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.00179816	0.00179816	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.00674856	0.00674856	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	SE
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.00640913	0.00640913	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	DE
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.00279279	0.00279279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	PL
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	2	0.00051142	0.00102284	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	2	0.00095004	0.00190008	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CO
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	13	0.00671853	0.08734089	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	6	0.00028119	0.00168714	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	ES
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	6	0.00929474	0.05576844	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	GB
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	3	0.00013468	0.00040404	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	7	0.00127127	0.00889889	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	8	0.00634725	0.050778	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/11/2016 12:00:00 AM	2/15/2016 12:00:00 AM	2	0.00328783	0.00657566	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/18/2016 12:00:00 AM	1/15/2016 12:00:00 AM	67	0.0014977244	0.10034753547	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+5/18/2016 12:00:00 AM	11/15/2015 12:00:00 AM	23	0.0021643758	0.04978064455	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+5/18/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.0051814744	0.00518147448	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+5/24/2016 12:00:00 AM	3/15/2016 12:00:00 AM	4	0.00045227	0.00180908	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/24/2016 12:00:00 AM	3/15/2016 12:00:00 AM	1	0.00020839	0.00020839	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+5/24/2016 12:00:00 AM	3/15/2016 12:00:00 AM	1	0.00651924	0.00651924	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	SE
+5/24/2016 12:00:00 AM	3/15/2016 12:00:00 AM	1	0.00611429	0.00611429	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/24/2016 12:00:00 AM	3/15/2016 12:00:00 AM	7	0.00691418	0.04839926	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+6/2/2016 12:00:00 AM	4/15/2016 12:00:00 AM	3	0.637	1.911	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+6/2/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0.7232112769	0.72321127697	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	AT
+6/3/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.00193011	0.00386022	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/3/2016 12:00:00 AM	4/15/2016 12:00:00 AM	3	0.0096187	0.0288561	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/3/2016 12:00:00 AM	4/15/2016 12:00:00 AM	6	0.00826371	0.04958226	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/9/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	download	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	11	0.002093	0.023023	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	14	0.001547	0.021658	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	14	0.001547	0.021658	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	36	0.001547	0.055692	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	62	0.001547	0.095914	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	4	0.0095762576	0.0383050304	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	4	0.0095762576	0.0383050304	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	1	0.0014107265	0.00141072659	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	2	0.0067030117	0.01340602354	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+6/11/2016 12:00:00 AM	1/15/2016 12:00:00 AM	6	0.0010256327	0.00615379674	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+6/14/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon MP3	download	US
+6/16/2016 12:00:00 AM	4/15/2016 12:00:00 AM	14	0.0010587558	0.01482258232	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	7	0.637	4.459	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.637	1.274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	213	0.0011086129	0.23613456048	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00884611	0.00884611	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	6	0.00884611	0.05307666	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	9	0.007553	0.067977	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/21/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.007553	0.007553	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.7241775304	1.44835506088	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	IT
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.8103067609	0.8103067609	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Switzerland	download	CH
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.8103067609	0.8103067609	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Switzerland	download	CH
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.0032186072	0.00643721442	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Switzerland	stream	CH
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.0032186072	0.00643721442	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Switzerland	stream	CH
+6/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.0013972813	0.00139728134	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+6/23/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	1.026874939	1.02687493909	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes-Japan	download	JP
+6/27/2016 12:00:00 AM	3/15/2016 12:00:00 AM	17	0.00024479	0.00416143	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+6/29/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	download	US
+6/29/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	download	US
+6/29/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	download	US
+6/29/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	download	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	6	0.002093	0.012558	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	5	0.002093	0.010465	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	2	0.0082789998	0.01655799964	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	9	0.001547	0.013923	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	9	0.001547	0.013923	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	33	0.001547	0.051051	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/1/2016 12:00:00 AM	2/15/2016 12:00:00 AM	91	0.001547	0.140777	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/8/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0.00017199	0.00017199	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	PE
+7/8/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0.00109837	0.00109837	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+7/8/2016 12:00:00 AM	4/15/2016 12:00:00 AM	10	0.00069888	0.0069888	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/8/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.00593138	0.01186276	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+7/8/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.00639912	0.01279824	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/12/2016 12:00:00 AM	1/15/2016 12:00:00 AM	6	0.00819	0.04914	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+7/14/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Amazon MP3	download	US
+7/14/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.637	1.274		"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero		Amazon MP3	download	US
+7/15/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.5891253158	0.58912531587	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Amazon MP3-ES	download	ES
+7/19/2016 12:00:00 AM	6/15/2016 12:00:00 AM	5	0.637	3.185	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+7/19/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.00779051	0.00779051	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	15	0.00779051	0.11685765	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0011259329	0.00225186598	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	99	0.0011259329	0.11146736601	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	3	0.00882427	0.02647281	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.00237237	0.00237237	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0109473	0.0218946	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	AR
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0109473	0.0109473	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	AR
+7/20/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0109473	0.0109473	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	AR
+7/21/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0154147757	0.01541477574	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Denmark	stream	DK
+7/22/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.7158634046	0.71586340462	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	IT
+7/22/2016 12:00:00 AM	6/15/2016 12:00:00 AM	9	0.0110860012	0.09977401161	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Japan	stream	JP
+7/27/2016 12:00:00 AM	12/15/2015 12:00:00 AM	6	0.00819	0.04914	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+7/28/2016 12:00:00 AM	2/15/2016 12:00:00 AM	10	0.00659568	0.0659568	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	2/15/2016 12:00:00 AM	18	0.0010539893	0.0189718074	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	2/15/2016 12:00:00 AM	1	0.0010539893	0.0010539893	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.0011239355	0.00224787108	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	9	0.0011239355	0.01011541986	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00703339	0.00703339	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.0015459389	0.00154593894	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	7	0.00708981	0.04962867	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	13	0.0011329518	0.01472837366	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.0011329518	0.00226590364	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	10	0.0010993091	0.0109930912	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	7	0.0068792815	0.0481549705	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	4	0.001512066	0.00604826404	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	13	0.001547	0.020111	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	7	0.002093	0.014651	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	7	0.002093	0.014651	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	4	0.0083683973	0.03347358924	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	1	0.0083683973	0.00836839731	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	95	0.001547	0.146965	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	18	0.001547	0.027846	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	24	0.001547	0.037128	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	9	0.002093	0.018837	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	3/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	19	0.001547	0.029393	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	10	0.001547	0.01547	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	3	0.0071398317	0.02141949537	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	20	0.001547	0.03094	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.0071398317	0.01427966358	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	82	0.001547	0.126854	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	6	0.002093	0.012558	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	8	0.002093	0.016744	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	5/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	19	0.001547	0.029393	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	9	0.001547	0.013923	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	81	0.001547	0.125307	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	30	0.001547	0.04641	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.0075585273	0.01511705468	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.0075585273	0.01511705468	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	5	0.002093	0.010465	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	4	0.002093	0.008372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	4	0.002093	0.008372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+7/28/2016 12:00:00 AM	4/15/2016 12:00:00 AM	17	0.00025844	0.00439348	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+8/3/2016 12:00:00 AM	3/15/2016 12:00:00 AM	117	0.0029624367	0.34660509975	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+8/3/2016 12:00:00 AM	2/15/2016 12:00:00 AM	71	0.0028298406	0.20091868615	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+8/3/2016 12:00:00 AM	4/15/2016 12:00:00 AM	181	0.0010598842	0.19183905468	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+8/5/2016 12:00:00 AM	4/15/2016 12:00:00 AM	3	0.0000702837	0.000210851277	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/5/2016 12:00:00 AM	4/15/2016 12:00:00 AM	1	0	0	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.006097	0.006097	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00511966	0.00511966	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	12	0.00078988	0.00947856	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	DE
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	36	0.00057239	0.02060604	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	3	0.00612066	0.01836198	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/8/2016 12:00:00 AM	5/15/2016 12:00:00 AM	6	0.00142415	0.0085449	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00407225	0.00407225	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	HK
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00293384	0.00293384	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	CO
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00048139	0.00048139	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	BE
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00548093	0.00548093	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.0008918	0.0008918	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00612248	0.00612248	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	SE
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00271817	0.00271817	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	PL
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	5	0.00878514	0.0439257	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	15	0.00612066	0.0918099	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	4	0.00551642	0.02206568	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	12	0.00142415	0.0170898	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00273273	0.00546546	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	MX
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00706342	0.01412684	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NL
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00192556	0.00385112	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00591682	0.01183364	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+8/9/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00511966	0.01023932	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+8/15/2016 12:00:00 AM	5/15/2016 12:00:00 AM	3	0.00598962	0.01796886	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+8/15/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00613522	0.00613522	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	IT
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Amazon MP3	download	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0070554939	0.0070554939	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0015507974	0.00155079743	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	5	0.0011274681	0.0056373408	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0015507974	0.00155079743	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	7	0.0011274681	0.00789227712	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0075513829	0.00755138293	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	8	0.001547	0.012376	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	53	0.001547	0.081991	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	8	0.001547	0.012376	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	12	0.001547	0.018564	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	10	0.002093	0.02093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/16/2016 12:00:00 AM	6/15/2016 12:00:00 AM	4	0.0075513829	0.03020553172	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+8/19/2016 12:00:00 AM	5/15/2016 12:00:00 AM	6	0.0002548	0.0015288	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+8/19/2016 12:00:00 AM	5/15/2016 12:00:00 AM	7	0.0002548	0.0017836	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+8/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	16	0.00002184	0.00034944	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.00000455	0.00000455	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/22/2016 12:00:00 AM	5/15/2016 12:00:00 AM	2	0.00000455	0.0000091	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Deezer	stream	IT
+8/23/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.637	1.274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+8/23/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.637	1.274	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+8/24/2016 12:00:00 AM	7/15/2016 12:00:00 AM	55	0.00714987	0.39324285	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+8/24/2016 12:00:00 AM	7/15/2016 12:00:00 AM	5	0.00714987	0.03574935	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+8/24/2016 12:00:00 AM	7/15/2016 12:00:00 AM	12	0.0011109516	0.01333141992	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+8/24/2016 12:00:00 AM	7/15/2016 12:00:00 AM	25	0.0084994	0.212485	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+8/25/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.7297779106	0.72977791068	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes-Europe	download	DE
+8/25/2016 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.7297779106	2.18933373204	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Europe	download	DE
+8/26/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0106972156	0.01069721562	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Japan	stream	JP
+8/26/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0094603882	0.00946038821	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+8/26/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.0019646927	0.00392938546	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	DE
+8/26/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0014098884	0.00140988848	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+8/30/2016 12:00:00 AM	5/15/2016 12:00:00 AM	152	0.0006039888	0.09180630368	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+8/31/2016 12:00:00 AM	6/15/2016 12:00:00 AM	10	0.000273	0.00273	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+8/31/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.00610792	0.01221584	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+8/31/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.00610792	0.00610792	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0044652435	0.00446524351	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	FR
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0008694968	0.00173899362	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	NL
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	24	0.003031119	0.072746856	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	3	0.0069629796	0.02088893898	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.000864065	0.00086406502	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	DE
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0014730479	0.00147304794	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0020466791	0.00204667918	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.002125638	0.00212563806	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	3	0.0030603509	0.00918105279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.003031119	0.006062238	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0094036078	0.00940360785	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CH
+9/8/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.009309148	0.00930914803	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	GB
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.009309148	0.01861829606	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	10	0.0069629796	0.0696297966	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0104189594	0.01041895946	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0078259945	0.00782599454	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IE
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0074255444	0.00742554449	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	FI
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0068494071	0.00684940711	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	FR
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0062524043	0.00625240434	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0062207254	0.00622072542	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NL
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.003031119	0.003031119	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.003031119	0.003031119	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.003031119	0.003031119	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.000864065	0.00086406502	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0074889096	0.01497781922	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0067812089	0.01356241796	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NL
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0014730479	0.00294609588	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	MX
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0008694968	0.00173899362	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NL
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	2	0.0020466791	0.00409335836	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+9/10/2016 12:00:00 AM	6/15/2016 12:00:00 AM	4	0.0030603509	0.01224140372	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+9/12/2016 12:00:00 AM	6/15/2016 12:00:00 AM	44	0.0034002049	0.14960901956	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+9/12/2016 12:00:00 AM	2/15/2016 12:00:00 AM	5	0.00819	0.04095	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+9/12/2016 12:00:00 AM	7/15/2016 12:00:00 AM	48	0.0014606218	0.07010985072	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+9/14/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon MP3	download	US
+9/21/2016 12:00:00 AM	6/15/2016 12:00:00 AM	13	0.0000700597	0.000910776321	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+9/21/2016 12:00:00 AM	6/15/2016 12:00:00 AM	1	0.0000047222	0.000004722281	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+9/21/2016 12:00:00 AM	8/15/2016 12:00:00 AM	5	0.00736918	0.0368459	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+9/21/2016 12:00:00 AM	8/15/2016 12:00:00 AM	10	0.00878969	0.0878969	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+9/22/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.4822041142	0.48220411421	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes-Canada	download	CA
+9/22/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.4822041142	0.48220411421	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes-Canada	download	CA
+9/26/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0017844617	0.00178446177	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Switzerland	stream	CH
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.00571298	0.00571298	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0011158492	0.00111584928	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0069827849	0.0069827849	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.001534816	0.00153481601	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.0069827849	0.0209483547	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	4	0.0011158492	0.00446339712	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.0011158492	0.00334754784	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	40	0.001547	0.06188	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	8	0.001547	0.012376	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	8	0.001547	0.012376	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	8	0.001547	0.012376	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0074931001	0.00749310016	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	5	0.0074931001	0.0374655008	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.002093	0.006279	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	6	0.002093	0.012558	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+9/30/2016 12:00:00 AM	7/15/2016 12:00:00 AM	9	0.00027118	0.00244062	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0041245122	0.00412451221	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	FR
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0022991932	0.00229919326	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0029695529	0.00296955295	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0008622641	0.00086226413	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	DE
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0006928184	0.00069281849	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	NL
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	6	0.003025932	0.018155592	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	4	0.0092317834	0.03692713388	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CH
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	8	0.0018099017	0.01447921384	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	6	0.006844383	0.041066298	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.003025932	0.006051864	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0054948775	0.00549487757	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CA
+10/5/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.003025932	0.003025932	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	ES
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0029695529	0.00296955295	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0022991932	0.00229919326	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0076669138	0.0076669138	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0039827314	0.00398273148	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0085593235	0.0085593235	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NL
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0065304912	0.00653049124	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	FR
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0000889137	0.000088913734	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	AR
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	1	0.0004031108	0.00040311089	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	AT
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	12	0.0018099017	0.02171882076	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	7	0.006844383	0.047910681	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+10/7/2016 12:00:00 AM	7/15/2016 12:00:00 AM	2	0.003025932	0.006051864	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+10/12/2016 12:00:00 AM	3/15/2016 12:00:00 AM	3	0.00819	0.02457	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+10/18/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.637	1.274	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+10/18/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+10/19/2016 12:00:00 AM	9/15/2016 12:00:00 AM	3	0.00858494	0.02575482	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+10/19/2016 12:00:00 AM	9/15/2016 12:00:00 AM	9	0.0073437	0.0660933	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+10/20/2016 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.0010514576	0.00315437304	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+10/21/2016 12:00:00 AM	9/15/2016 12:00:00 AM	9	0.0009882873	0.0088945857	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+10/21/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.0009882873	0.0009882873	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+10/21/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.0136373255	0.02727465104	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+10/21/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.0136373255	0.01363732552	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+10/24/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.4797978103	0.47979781031	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes-Canada	download	CA
+10/25/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.002664469	0.00266446908	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Switzerland	stream	CH
+10/25/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.002664469	0.00266446908	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Switzerland	stream	CH
+10/27/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.160120404	0.16012040408	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Turkey	download	TR
+10/31/2016 12:00:00 AM	8/15/2016 12:00:00 AM	4	0.00026572	0.00106288	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+10/31/2016 12:00:00 AM	8/15/2016 12:00:00 AM	7	0.00026572	0.00186004	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0070011487	0.0070011487	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.0011187831	0.00335634936	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0011187831	0.00111878312	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	CA
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	10	0.001547	0.01547	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	2	0.002093	0.004186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	4	0.002093	0.008372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	17	0.001547	0.026299	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.0071648567	0.02149457037	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	5	0.001547	0.007735	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	34	0.001547	0.052598	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.002093	0.002093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Slacker Radio	stream	US
+11/2/2016 12:00:00 AM	9/15/2016 12:00:00 AM	24	0.0022670411	0.05440898736	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+11/2/2016 12:00:00 AM	8/15/2016 12:00:00 AM	41	0.0017250933	0.07072882817	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.001824721	0.00182472108	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0029051704	0.00290517045	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0008574611	0.00085746115	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	DE
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	6	0.003044496	0.018266976	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	5	0.0111176383	0.05558819175	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.006668864	0.02000659206	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0091932704	0.00919327045	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CH
+11/10/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0096928813	0.00969288138	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	GB
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0009860077	0.00098600775	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0096928813	0.00969288138	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0038313366	0.0038313366	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.0074754288	0.00747542887	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IE
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	1	0.003044496	0.003044496	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	5	0.001824721	0.0091236054	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+11/11/2016 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.006668864	0.02000659206	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+11/22/2016 12:00:00 AM	10/15/2016 12:00:00 AM	4	0.0008770379	0.00350815192	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+11/22/2016 12:00:00 AM	10/15/2016 12:00:00 AM	58	0.0008770379	0.05086820284	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+11/22/2016 12:00:00 AM	10/15/2016 12:00:00 AM	2	0.637	1.274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+
+1/23/2016 12:00:00 AM	10/15/2016 12:00:00 AM	1	0.4739154356	0.47391543563	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes-Canada	download	CA
+11/23/2016 12:00:00 AM	10/15/2016 12:00:00 AM	3	0.00858858	0.02576574	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+11/23/2016 12:00:00 AM	10/15/2016 12:00:00 AM	3	0.00705705	0.02117115	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+11/23/2016 12:00:00 AM	10/15/2016 12:00:00 AM	1	0.00861588	0.00861588	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	AR
+12/1/2016 12:00:00 AM	10/15/2016 12:00:00 AM	1	0.0100212193	0.01002121939	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Japan	stream	JP
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00300482	0.00300482	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00418782	0.00418782	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	3	0.00300482	0.00901446	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	29	0.00300482	0.08713978	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	3	0.00280735	0.00842205	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	3	0.00673582	0.02020746	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.0014833	0.0029666	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.00683137	0.01366274	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	FR
+12/9/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00785967	0.00785967	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00673582	0.00673582	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00418782	0.00418782	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	1	0.00785967	0.00785967	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	3	0.00280735	0.00842205	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.0011193	0.0022386	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	GB
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.00300482	0.00600964	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+12/10/2016 12:00:00 AM	9/15/2016 12:00:00 AM	2	0.0014833	0.0029666	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+12/15/2016 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.0001745935	0.00052378053	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+12/16/2016 12:00:00 AM	4/15/2016 12:00:00 AM	2	0.00819	0.01638	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+12/16/2016 12:00:00 AM	5/15/2016 12:00:00 AM	1	0.0091	0.0091	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Napster	stream	US
+12/27/2016 12:00:00 AM	11/15/2016 12:00:00 AM	1	0.637	0.637	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+12/27/2016 12:00:00 AM	11/15/2016 12:00:00 AM	3	0.0009643715	0.00289311477	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+12/27/2016 12:00:00 AM	11/15/2016 12:00:00 AM	14	0.0009643715	0.01350120226	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+12/28/2016 12:00:00 AM	11/15/2016 12:00:00 AM	1	0.00194103	0.00194103	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+12/28/2016 12:00:00 AM	11/15/2016 12:00:00 AM	1	0.0081991	0.0081991	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+12/28/2016 12:00:00 AM	11/15/2016 12:00:00 AM	3	0.01007643	0.03022929	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US

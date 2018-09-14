@@ -1,0 +1,405 @@
+1/3/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.0050599239	0.00505992396	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Canada	stream	CA
+1/3/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.0148022592	0.01480225929	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+1/8/2018 12:00:00 AM	11/15/2017 12:00:00 AM	371	0.0007727538	0.2866916598	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+1/8/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.002548	0.002548	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+1/8/2018 12:00:00 AM	11/15/2017 12:00:00 AM	57	0.0024188928	0.13787689188	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+1/8/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.0024188928	0.00483778568	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+1/8/2018 12:00:00 AM	11/15/2017 12:00:00 AM	5	0.0039946652	0.0199733261	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+1/9/2018 12:00:00 AM	7/15/2016 12:00:00 AM	3	0.001721265	0.005163795	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	8/15/2016 12:00:00 AM	3	0.001721265	0.005163795	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	2/15/2017 12:00:00 AM	2	0.001721265	0.00344253	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	3/15/2017 12:00:00 AM	1	0.001721265	0.001721265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	5/15/2017 12:00:00 AM	1	0.001721265	0.001721265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	6/15/2017 12:00:00 AM	5	0.001721265	0.008606325	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	7/15/2017 12:00:00 AM	1	0.001721265	0.001721265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	AU
+1/9/2018 12:00:00 AM	12/15/2016 12:00:00 AM	1	0.001721265	0.001721265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	NZ
+1/9/2018 12:00:00 AM	7/15/2017 12:00:00 AM	4	0.00559104	0.02236416	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+1/10/2018 12:00:00 AM	9/15/2017 12:00:00 AM	4	0.00582127	0.02328508	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+1/10/2018 12:00:00 AM	8/15/2017 12:00:00 AM	1	0.0055783	0.0055783	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+1/11/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.00278824	0.00278824	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	MX
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	2	0.00532077	0.01064154	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.00056329	0.00056329	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	FR
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.00291928	0.00291928	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	4	0.00284375	0.011375	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	10	0.00046683	0.0046683	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.00358267	0.00358267	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	CR
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.0028119	0.0028119	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	DE
+1/17/2018 12:00:00 AM	10/15/2017 12:00:00 AM	1	0.0004732	0.0004732	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	PA
+1/17/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.637	0.637	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	download	US
+1/17/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.637	0.637	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	download	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	8	0.0006353274	0.00508261936	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	2	0.0006353274	0.00127065484	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00693238	0.00693238	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	2	0.00182728	0.00365456	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	8	0.637	5.096	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Apple iTunes	download	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.637	0.637	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Apple iTunes	download	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	8	0.0006353274	0.00508261936	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	2	0.0006353274	0.00127065484	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	2	0.00693238	0.01386476	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	10	0.00693238	0.0693238	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+1/24/2018 12:00:00 AM	12/15/2017 12:00:00 AM	13	0.00182728	0.02375464	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+1/25/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.00030485	0.00030485	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/25/2018 12:00:00 AM	11/15/2017 12:00:00 AM	14	0.00030485	0.0042679	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Locker	stream	US
+1/25/2018 12:00:00 AM	10/15/2017 12:00:00 AM	6	0.00028665	0.0017199	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+1/25/2018 12:00:00 AM	10/15/2017 12:00:00 AM	3	0.00028665	0.00085995	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/25/2018 12:00:00 AM	9/15/2017 12:00:00 AM	2	0.00029211	0.00058422	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+1/25/2018 12:00:00 AM	9/15/2017 12:00:00 AM	1	0.00029211	0.00029211	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/25/2018 12:00:00 AM	8/15/2017 12:00:00 AM	1	0.00028301	0.00028301	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+1/25/2018 12:00:00 AM	6/15/2017 12:00:00 AM	8	0.00028665	0.0022932	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+1/26/2018 12:00:00 AM	12/15/2017 12:00:00 AM	10	0.00918918	0.0918918	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+1/26/2018 12:00:00 AM	12/15/2017 12:00:00 AM	6	0.00918918	0.05513508	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+1/26/2018 12:00:00 AM	12/15/2017 12:00:00 AM	3	0.00918918	0.02756754	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+1/29/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.0110565564	0.01105655642	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music - Europe	stream	FR
+1/29/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.0005450354	0.0005450354	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+1/31/2018 12:00:00 AM	7/15/2017 12:00:00 AM	1	0.0006222798	0.00062227984	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+1/31/2018 12:00:00 AM	7/15/2017 12:00:00 AM	9	0.0015771128	0.01419401529	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+1/31/2018 12:00:00 AM	6/15/2017 12:00:00 AM	9	0.0000362461	0.000326215071	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+1/31/2018 12:00:00 AM	5/15/2017 12:00:00 AM	1	0.0000054022	0.000005402251	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	10/15/2017 12:00:00 AM	2	0.0000220679	0.00004413591	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	10/15/2017 12:00:00 AM	7	0.0000193	0.000135100693	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	9/15/2017 12:00:00 AM	1	0.0001203502	0.00012035023	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	9/15/2017 12:00:00 AM	6	0.0000845994	0.000507596544	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	12/31/2017 12:00:00 AM	1	0.00795704	0.00795704	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+2/1/2018 12:00:00 AM	12/31/2017 12:00:00 AM	2	0.00795613	0.01591226	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	YouTube Music	stream	US
+2/1/2018 12:00:00 AM	11/30/2017 12:00:00 AM	1	0.00821912	0.00821912	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+2/1/2018 12:00:00 AM	8/15/2017 12:00:00 AM	8	0.0000028992	0.000023193862	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/1/2018 12:00:00 AM	8/15/2017 12:00:00 AM	3	0.0000254854	0.00007645638	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	3	0.0000052936	0.000015880901	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.0010088496	0.00100884966	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	54	0.0023088911	0.12468012102	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	4	0.0019340211	0.00773608472	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	458	0.0007728502	0.35396541908	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	35	0.002548	0.08918	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+2/5/2018 12:00:00 AM	12/15/2017 12:00:00 AM	9	0.0042433154	0.03818983896	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+2/5/2018 12:00:00 AM	11/15/2017 12:00:00 AM	4	0.00293384	0.01173536	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	MX
+2/6/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00556101	0.00556101	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Google Music Store	stream	US
+2/6/2018 12:00:00 AM	12/15/2017 12:00:00 AM	8	0.00556101	0.04448808	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+2/6/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00556101	0.00556101	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+2/6/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00030394	0.00030394	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+2/6/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.0058422	0.0116844	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+2/6/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.0058422	0.0058422	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+2/12/2018 12:00:00 AM	11/15/2017 12:00:00 AM	5	0.00199381	0.00996905	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+2/12/2018 12:00:00 AM	11/15/2017 12:00:00 AM	3	0.00547092	0.01641276	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+2/12/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.00300573	0.00300573	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+2/13/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.00547092	0.00547092	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+2/13/2018 12:00:00 AM	11/15/2017 12:00:00 AM	4	0.00199381	0.00797524	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.00279916	0.00279916	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.00199381	0.00398762	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.00279916	0.00559832	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.00199381	0.00398762	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.00300573	0.00601146	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.0062426	0.0124852	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	3	0.00547092	0.01641276	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+2/14/2018 12:00:00 AM	11/15/2017 12:00:00 AM	7	0.0004459	0.0031213	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+2/15/2018 12:00:00 AM	3/31/2016 12:00:00 AM	2	0.0000605488	0.000121097704	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Yandex	stream	
+2/15/2018 12:00:00 AM	2/28/2016 12:00:00 AM	3	0.0000537252	0.000161175651	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Yandex	stream	
+2/20/2018 12:00:00 AM	11/15/2017 12:00:00 AM	3	0.0000332673	0.000099801975	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/20/2018 12:00:00 AM	11/15/2017 12:00:00 AM	2	0.0000110606	0.000022121372	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+2/20/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0	0	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Deezer	stream	VE
+2/23/2018 12:00:00 AM	6/30/2016 12:00:00 AM	3	0.0000646251	0.000193875318	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Yandex	stream	
+2/23/2018 12:00:00 AM	6/30/2016 12:00:00 AM	3	0.0000646251	0.000193875318	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Yandex	stream	
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	17	0.00915642	0.15565914	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	4	0.00915642	0.03662568	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	19	0.00915642	0.17397198	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00915642	0.01831284	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	8	0.00683774	0.05470192	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00683774	0.00683774	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00683774	0.00683774	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.0007099592	0.0014199185	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.0007099592	0.00070995925	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	6	0.0007099592	0.0042597555	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	8	0.0007099592	0.005679674	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+2/27/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.637	0.637	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Apple iTunes	download	US
+2/28/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00180817	0.00180817	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+2/28/2018 12:00:00 AM	1/15/2018 12:00:00 AM	4	0.00180817	0.00723268	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+2/28/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.637	0.637	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	download	US
+2/28/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00562016	0.00562016	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+3/5/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.0005452155	0.00109043116	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.002548	0.005096	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	372	0.0007729449	0.2875355028	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	5	0.0020507605	0.01025380265	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	3	0.0000066017	0.00001980514	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	28	0.0024500867	0.06860242844	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	4	0.0040639535	0.01625581412	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	5	0.0042922097	0.0214610487	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+3/8/2018 12:00:00 AM	1/15/2018 12:00:00 AM	3	0.0042922097	0.01287662922	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+3/9/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.0021201999	0.0021201999	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+3/12/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00288379	0.00288379	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+3/12/2018 12:00:00 AM	12/15/2017 12:00:00 AM	4	0.00230048	0.00920192	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+3/12/2018 12:00:00 AM	12/15/2017 12:00:00 AM	5	0.00526162	0.0263081	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+3/13/2018 12:00:00 AM	12/15/2017 12:00:00 AM	2	0.00288379	0.00576758	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+3/13/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00526162	0.00526162	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+3/13/2018 12:00:00 AM	12/15/2017 12:00:00 AM	4	0.00230048	0.00920192	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00526162	0.00526162	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00269724	0.00269724	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00738465	0.00738465	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	14	0.0006188	0.0086632	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00531258	0.00531258	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	FR
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	3	0.0059423	0.0178269	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	6	0.00526162	0.03156972	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+3/14/2018 12:00:00 AM	12/15/2017 12:00:00 AM	3	0.00288379	0.00865137	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+3/21/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.637	0.637		"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero		Amazon MP3	download	US
+3/22/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.0073110291	0.00731102918	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon US Premium Service	stream	US
+3/29/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.637	0.637	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Apple iTunes	download	US
+3/29/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.637	0.637	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Apple iTunes	download	US
+3/29/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.637	0.637	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+3/29/2018 12:00:00 AM	2/15/2018 12:00:00 AM	6	0.0007069608	0.0042417648	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+3/29/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.0007069608	0.0014139216	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00369096	0.00369096	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00369096	0.00738192	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00923286	0.00923286	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.00923286	0.02769858	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	16	0.00369096	0.05905536	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	42	0.00369096	0.15502032	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00369096	0.00369096	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	4	0.00369096	0.01476384	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00923286	0.01846572	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00923286	0.01846572	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00923286	0.01846572	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00685412	0.01370824	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00685412	0.00685412	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+3/30/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.00685412	0.02056236	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/2/2018 12:00:00 AM	2/15/2018 12:00:00 AM	311	0.0007730058	0.24040482557	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+4/2/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.0021302444	0.00639073344	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+4/2/2018 12:00:00 AM	2/15/2018 12:00:00 AM	21	0.0024879845	0.05224767639	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+4/2/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0043056531	0.00430565317	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+4/2/2018 12:00:00 AM	2/15/2018 12:00:00 AM	5	0.0043056531	0.02152826585	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+4/4/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.0012438453	0.00373153599	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Europe	stream	DE
+4/4/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0005706846	0.00057068466	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+4/4/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0146199326	0.0146199326	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+4/10/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00190736	0.00381472	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+4/10/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00134134	0.00134134	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00575211	0.00575211	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	FR
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00292565	0.0058513	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	10	0.00022113	0.0022113	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00737464	0.00737464	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	GB
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00637091	0.01274182	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00536718	0.00536718	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00375466	0.00750932	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CH
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00282646	0.00282646	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	2	0.00795249	0.01590498	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+4/11/2018 12:00:00 AM	1/15/2018 12:00:00 AM	1	0.00282646	0.00282646	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+4/17/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00031941	0.00031941	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+4/17/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00031941	0.00031941	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+4/18/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00605787	0.01211574	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+4/18/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00605787	0.01211574	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+4/18/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00469469	0.00469469	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	VE
+4/23/2018 12:00:00 AM	2/28/2018 12:00:00 AM	2	0.0065629199	0.013125839942	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/23/2018 12:00:00 AM	2/28/2018 12:00:00 AM	5	0.0065629199	0.032814599854	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	5	0.0088424697	0.044212348712	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	3	0.0088424697	0.026527409227	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	4	0.0088424697	0.03536987897	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	7	0.00345527	0.024186890261	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	1	0.00345527	0.003455270037	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	3	0.00345527	0.010365810112	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	2/28/2018 12:00:00 AM	2	0.0039493999	0.007898799973	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/24/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.6369999891	0.636999989152	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+4/24/2018 12:00:00 AM	3/31/2018 12:00:00 AM	7	0.0007168652	0.005018056508	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+4/24/2018 12:00:00 AM	3/31/2018 12:00:00 AM	6	0.0007168652	0.004301191293	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+4/24/2018 12:00:00 AM	3/31/2018 12:00:00 AM	5	0.0007168652	0.003584326077	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+4/24/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0007168652	0.000716865215	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	2	0.0037528401	0.007505680369	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0039839798	0.003983979826	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	2	0.0039839798	0.007967959652	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	3	0.0100864396	0.030259319042	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0100864396	0.010086439681	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.00748657	0.007486570012	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+4/25/2018 12:00:00 AM	3/31/2018 12:00:00 AM	2	0.00748657	0.014973140024	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+5/2/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0009722076	0.000972207651	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Japan	stream	JP
+5/2/2018 12:00:00 AM	3/31/2018 12:00:00 AM	3	0.0001751385	0.000525415781	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - other territories	stream	RU
+5/2/2018 12:00:00 AM	3/31/2018 12:00:00 AM	4	0.0034332298	0.01373291944	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Apple -other territories	stream	RU
+5/4/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0084748303	0.008474830333	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	YouTube Music	stream	US
+5/4/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0084748303	0.008474830333	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+5/7/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0041951	0.0041951	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	NO
+5/7/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.00539084	0.01078168	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+5/8/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0018018	0.0018018	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	US
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0041951	0.0041951	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	NO
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	2	0.0018018	0.0036036	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00656929	0.00656929	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.00539084	0.01617252	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.00245609	0.00736827	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	3	0.00028119	0.00084357	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0018018	0.0018018	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.0041951	0.0041951	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	NO
+5/9/2018 12:00:00 AM	2/15/2018 12:00:00 AM	1	0.00293566	0.00293566	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	13	0.0040897084	0.053166209662	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	55	0.0024044438	0.132244410448	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	6	0.0024044438	0.014426662958	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	2	0.0020581833	0.00411636666	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	298	0.0007728138	0.230298527297	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.001261755	0.001261755012	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+5/10/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0000164277	0.000016427775	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+5/14/2018 12:00:00 AM	1/31/2018 12:00:00 AM	1	0.6369999891	0.636999989152	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	MediaNet	download	US
+5/16/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.6369999891	0.636999989152	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon MP3	download	US
+5/17/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0002821	0.000282100003	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+5/18/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.00534716	0.005347160035	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+5/18/2018 12:00:00 AM	3/31/2018 12:00:00 AM	2	0.00534716	0.010694320071	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+5/18/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0128629002	0.012862900272	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon DE Premium Service	stream	DE
+5/29/2018 12:00:00 AM	4/30/2018 12:00:00 AM	5	0.0006943618	0.003471809123	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+5/29/2018 12:00:00 AM	4/30/2018 12:00:00 AM	8	0.0006943618	0.005554894596	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+5/29/2018 12:00:00 AM	4/30/2018 12:00:00 AM	3	0.0006943618	0.002083085474	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+5/29/2018 12:00:00 AM	4/30/2018 12:00:00 AM	7	0.00584948	0.040946360331	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.00584948	0.011698960095	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	3	0.00584948	0.017548440142	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.0078596698	0.015719339773	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.0078596698	0.007859669886	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	3	0.00306488	0.009194640093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	3	0.00306488	0.009194640093	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.00306488	0.006129760062	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+5/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.00306488	0.003064880031	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+6/5/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.0016854592	0.001685459217	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Switzerland	stream	CH
+6/5/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.000411754	0.000823508122	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.001172534	0.001172534076	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	13	0.0039508085	0.051360510983	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	4	0.0039508085	0.015803234149	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.0000203529	0.00002035297	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	41	0.0023126176	0.094817324287	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	5	0.0019790097	0.009895048805	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	264	0.0007727974	0.204018535441	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.0120563091	0.012056309115	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	ES
+6/6/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.0121191243	0.024238248766	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.00203749	0.002037490047	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	3	0.0052406898	0.015722069582	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.00039676	0.000396760002	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	ES
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.00415415	0.004154150062	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	NO
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.0027682201	0.002768220103	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	ES
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.0052406898	0.005240689861	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.0012749099	0.001274909962	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	CA
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.00039676	0.000396760002	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	ES
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	3	0.0061634301	0.018490290319	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	3	0.0052406898	0.015722069582	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.0028901599	0.002890159972	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.0077559303	0.007755930368	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	2	0.00415415	0.008308300124	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	NO
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	3	0.00203749	0.006112470142	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	8	0.0027454699	0.021963759439	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	3	0.00037219	0.00111657	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+6/13/2018 12:00:00 AM	3/15/2018 12:00:00 AM	1	0.00248794	0.002487940087	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+6/18/2018 12:00:00 AM	11/15/2017 12:00:00 AM	1	0.0091	0.0091	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Napster	stream	US
+6/18/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.0002875599	0.000287559992	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+6/18/2018 12:00:00 AM	4/30/2018 12:00:00 AM	1	0.00543179	0.005431790045	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+6/19/2018 12:00:00 AM	3/31/2018 12:00:00 AM	4	0.0010051668	0.004020667407	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+6/19/2018 12:00:00 AM	3/31/2018 12:00:00 AM	1	0.0032863858	0.003286385887	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Deezer	stream	BR
+6/26/2018 12:00:00 AM	5/31/2018 12:00:00 AM	3	0.0006769216	0.002030765054	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+6/26/2018 12:00:00 AM	5/31/2018 12:00:00 AM	6	0.0006769216	0.004061530107	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+6/26/2018 12:00:00 AM	5/31/2018 12:00:00 AM	2	0.0006769216	0.001353843369	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+6/26/2018 12:00:00 AM	5/31/2018 12:00:00 AM	4	0.0006769216	0.002707686738	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+6/27/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0086650202	0.008665020298	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+6/27/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0086650202	0.008665020298	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+7/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.7425860756	0.742586075663	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes-Europe	download	NL
+7/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0010367884	0.00103678848	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Europe	stream	NL
+7/3/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0131071677	0.013107167743	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Europe	stream	IT
+7/10/2018 12:00:00 AM	5/31/2018 12:00:00 AM	2	0.0016361799	0.003272359916	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	MX
+7/10/2018 12:00:00 AM	5/31/2018 12:00:00 AM	5	0.0242123693	0.121061846988	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	YouTube Music	stream	US
+7/10/2018 12:00:00 AM	5/31/2018 12:00:00 AM	10	0.0045390798	0.045390798153	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+7/10/2018 12:00:00 AM	5/31/2018 12:00:00 AM	7	0.0034488999	0.024142299924	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	YouTube Music	stream	US
+7/11/2018 12:00:00 AM	5/31/2018 12:00:00 AM	3	0.003185	0.009555000295	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+7/11/2018 12:00:00 AM	5/31/2018 12:00:00 AM	285	0.0007726564	0.220207081513	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+7/11/2018 12:00:00 AM	5/31/2018 12:00:00 AM	8	0.001982982	0.015863856081	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+7/11/2018 12:00:00 AM	5/31/2018 12:00:00 AM	49	0.0023017795	0.112787199336	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+7/11/2018 12:00:00 AM	5/31/2018 12:00:00 AM	2	0.0000286762	0.000057352572	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+7/12/2018 12:00:00 AM	5/31/2018 12:00:00 AM	23	0.0039619815	0.091125576799	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+7/12/2018 12:00:00 AM	5/31/2018 12:00:00 AM	2	0.0012709342	0.002541868433	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	3	0.0017235399	0.005170619962	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	2	0.0050832601	0.010166520289	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	4	0.0060642399	0.024256959949	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	3	0.00259441	0.007783230153	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.0028355599	0.00283555998	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.0002502499	0.000250249999	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	EC
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	7	0.00033761	0.002363270013	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.00030667	0.000306670005	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	MX
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.0027964301	0.002796430106	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.0038911599	0.003891159966	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	NO
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	1	0.00259441	0.002594410051	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	3	0.0017235399	0.005170619962	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	3	0.0017235399	0.005170619962	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+7/17/2018 12:00:00 AM	4/15/2018 12:00:00 AM	2	0.0027964301	0.005592860211	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+7/18/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.00819	0.00819	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Napster	stream	US
+7/18/2018 12:00:00 AM	12/15/2017 12:00:00 AM	1	0.0091	0.0091	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Napster	stream	FR
+7/23/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0002711799	0.000271179999	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00905177	0.009051770065	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00905177	0.009051770065	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00905177	0.009051770065	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	3	0.00905177	0.027155310194	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	4	0.00905177	0.036207080258	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	3	0.0052279501	0.015683850562	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0052279501	0.005227950187	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.0052279501	0.010455900375	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.0005855622	0.001171124465	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	5	0.0005855622	0.002927811164	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	6	0.0005855622	0.003513373396	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.6369999891	1.273999978304	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Apple iTunes	download	US
+7/24/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.6369999891	0.636999989152	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Apple iTunes	download	US
+7/25/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00345436	0.003454360031	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/25/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00345436	0.003454360031	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+7/25/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.00345436	0.003454360031	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+7/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	11	0.0010133241	0.011146565971	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+7/30/2018 12:00:00 AM	4/30/2018 12:00:00 AM	2	0.0003343967	0.000668793596	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+7/30/2018 12:00:00 AM	6/30/2018 12:00:00 AM	11	0.0036927801	0.040620581662	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	YouTube Music	stream	US
+7/30/2018 12:00:00 AM	6/30/2018 12:00:00 AM	11	0.00331331	0.03644641018	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+7/30/2018 12:00:00 AM	6/30/2018 12:00:00 AM	3	0.0060278401	0.018083520401	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	YouTube Music	stream	US
+7/31/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.0037849821	0.00756996436	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Canada	stream	CA
+8/1/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0008846801	0.000884680186	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Europe	stream	DE
+8/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.002614763	0.00261476306	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	MX
+8/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.002614763	0.00261476306	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	MX
+8/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	5	0.0051699902	0.025849951336	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+8/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0051699902	0.005169990267	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Music Store	stream	US
+8/2/2018 12:00:00 AM	5/31/2018 12:00:00 AM	2	0.0051699902	0.010339980535	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Music Store	stream	US
+8/3/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.6369999891	0.636999989152	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Amazon MP3	download	US
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	2	0.0019619598	0.003923919793	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	2	0.0024742899	0.004948579967	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	4	0.0050978198	0.02039127933	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0058895199	0.005889519928	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0026872299	0.00268722991	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0003812899	0.00038128999	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0027991599	0.002799159914	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Spotify	stream	US
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0024742899	0.002474289984	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0019619598	0.001961959896	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Spotify	stream	US
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	1	0.0058895199	0.005889519928	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Spotify	stream	IT
+8/7/2018 12:00:00 AM	5/15/2018 12:00:00 AM	2	0.0019619598	0.003923919793	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Spotify	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	266	0.0007725244	0.205491511922	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	5	0.0020635278	0.010317639496	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	5	0.000036894	0.000184470186	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0023875651	0.002387565158	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	29	0.0023875651	0.069239389587	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0037568348	0.003756834893	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0041205846	0.004120584685	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	26	0.0041205846	0.107135201799	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+8/13/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.0015458424	0.003091684873	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+8/20/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.0002884699	0.000576939996	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Google Locker	stream	US
+8/20/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.0002884699	0.000288469998	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Google Locker	stream	US
+8/20/2018 12:00:00 AM	6/30/2018 12:00:00 AM	2	0.005430184	0.010860368051	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Google Music Store	stream	US
+8/21/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.6369999891	0.636999989152	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	Amazon MP3	download	US
+8/21/2018 12:00:00 AM	6/30/2018 12:00:00 AM	1	0.6369999891	0.636999989152	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	Amazon MP3	download	US
+8/22/2018 12:00:00 AM	5/31/2018 12:00:00 AM	7	0.0010216596	0.007151617862	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/22/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0003371477	0.000337147715	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Deezer	stream	IT
+8/22/2018 12:00:00 AM	5/31/2018 12:00:00 AM	1	0.0010216596	0.001021659695	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	Deezer	stream	VE
+8/23/2018 12:00:00 AM	7/31/2018 12:00:00 AM	5	0.00187551	0.009377550428	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	YouTube Music	stream	US
+8/23/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0145600006	0.014560000692	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	YouTube Music	stream	US
+8/23/2018 12:00:00 AM	7/31/2018 12:00:00 AM	4	0.0071407699	0.028563079683	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	YouTube Music	stream	US
+8/28/2018 12:00:00 AM	7/31/2018 12:00:00 AM	13	0.0005270292	0.006851380144	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Americas	stream	US
+8/28/2018 12:00:00 AM	7/31/2018 12:00:00 AM	2	0.0005270292	0.001054058484	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - Americas	stream	US
+8/28/2018 12:00:00 AM	7/31/2018 12:00:00 AM	7	0.0005270292	0.003689204693	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes Match - Americas	stream	US
+8/28/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0005270292	0.001581087725	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes Match - Americas	stream	US
+8/28/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0022768199	0.006830459888	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0053862901	0.005386290122	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0053862901	0.016158870366	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0053862901	0.005386290122	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	2	0.0053862901	0.010772580244	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0053862901	0.016158870366	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0093402399	0.009340239931	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0093402399	0.028020719793	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0093402399	0.009340239931	QM22H1700001	"191924482925"	ivanmontero4	Puerto Rico Se Levanta	Ivan Montero	Puerto Rico Se Levanta	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	2	0.0093402399	0.018680479862	QM22H1700003	"191924504955"	ivanmontero5	Puerto Rico Se Levanta (Versión Acústica)	Ivan Montero	Puerto Rico Se Levanta (Versión Acústica)	iTunes - Apple Music – US	stream	US
+8/29/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0035207899	0.003520789901	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music – US	stream	US
+9/3/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0040843628	0.004084362807	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes - Apple Music - Canada	stream	CA
+9/3/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0003397075	0.000339707546	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	FR
+9/3/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0002420772	0.000726231851	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	iTunes Match - Europe	stream	IT
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	2	0.0000216609	0.000043321826	QM22H1600001	"190394489755"	ivanmontero2	Nos Entendemos	Ivan Montero	Nos Entendemos	iTunes Match - other territories	stream	TR
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.003185	0.003185000098	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	233	0.0007727419	0.180048879222	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Radio	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	3	0.0024662136	0.007398641094	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	50	0.0024662136	0.123310684907	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Plus	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	2	0.0043560279	0.008712055898	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	18	0.0043560279	0.078408503082	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
+9/4/2018 12:00:00 AM	7/31/2018 12:00:00 AM	1	0.0028300791	0.002830079175	ushm21514105	"889211844012"	ivanmontero	Yo la Enamore Con Salsa	Ivan Montero	Yo la Enamore Con Salsa	Pandora Premium	stream	US
