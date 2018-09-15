@@ -15,11 +15,13 @@ with open('data/consolidated_clean.csv', 'rb') as f:
 			data[formateddate] += quantity
 		else:
 			data[formateddate] = quantity
-
-print data
-
- 
-
+                
+	
+with open('output.csv', 'wb') as csvfile:
+	fieldnames = ['date', 'quantity']
+        filewriter = csv.DictWriter(csvfile, fieldnames=fieldnames)
+	for key, value in data.iteritems():
+		filewriter.writerow({'date': key, 'quantity': value})	
 
 
 
