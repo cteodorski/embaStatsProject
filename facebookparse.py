@@ -1,7 +1,10 @@
 import json
 import datetime
 from collections import Counter
+import sqlite3
 
+conn = sqlite3.connect('datadb.db')
+c = conn.cursor()
 
 facebookPosts = []
 
@@ -16,4 +19,10 @@ for post in posts_dict['status_updates']:
 post_count = Counter(facebookPosts)
 
 for date in sorted(post_count):
-	print date, post_count[date]
+	sqlstatement = 'UPDATE or IGNORE data SET facebookPost=' + str(post_count[date]) + ' WHERE date="' + date + '";'
+	#print sqlstatement 
+        c.execute(sqlstatement)
+
+conn.commit()
+conn.close()
+

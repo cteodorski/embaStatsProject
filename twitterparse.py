@@ -1,6 +1,11 @@
 import pandas
 from datetime import datetime
 from collections import Counter
+import sqlite3
+
+conn = sqlite3.connect('datadb.db')
+c = conn.cursor()
+
 twitterPosts = []
 
 fieldnames = ['favorite_count','source,text','in_reply_to_screen_name','is_retweet','created_at','retweet_count','id_str']
@@ -15,5 +20,12 @@ for date in dates:
 post_count = Counter(twitterPosts)
 
 for date in sorted(post_count):
-	print date, post_count[date]
+	sqlstatement = 'UPDATE or IGNORE data SET twitterPost=' + str(post_count[date]) + ' WHERE date="' + date + '";'
+        print sqlstatement 
+        c.execute(sqlstatement)
+
+conn.commit()
+conn.close()
+
+	#print date, post_count[date]
 
